@@ -1,279 +1,304 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,40:1e3a5f,70:2563EB,100:14B8A6&text=Minh%20Khoa&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Cloud%20%26%20Full-Stack%20Developer&descSize=19&descAlignY=58&animation=fadeIn" alt="Minh Khoa — Software Engineering Student" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,30:0a1628,60:0f2447,85:1a3a6e,100:1d4ed8&text=Minh%20Khoa&fontColor=E2E8F0&fontSize=72&fontAlignY=40&fontAlign=50&desc=Cloud%20%26%20Platform%20Engineer%20%E2%80%94%20Building%20Production-Grade%20Systems&descSize=17&descAlignY=60&descAlign=50&descColor=94A3B8&animation=fadeIn&stroke=1d4ed8&strokeWidth=0" alt="Minh Khoa" />
 </p>
 
 <p align="center">
   <a href="https://github.com/MinhKhoa2209">
-    <img src="https://img.shields.io/badge/GitHub-MinhKhoa2209-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-MinhKhoa2209-0f172a?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=1d4ed8" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://minhkhoa2209.github.io/Mixi_Shop/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Mixi%20Shop-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MinhKhoa2209&style=for-the-badge&color=2563EB&label=Profile+Views" alt="Profile views" />
-</p>
-
----
-
-## 👋 About Me
-
-> *I build systems where cloud infrastructure, backend logic, databases, and frontend all fit together coherently — not just demos.*
-
-I'm a **Software Engineering student** with a strong focus on **cloud-native full-stack development**. My work spans Terraform-managed AWS infrastructure, containerised microservices, PostgreSQL-heavy backends, and ML/AI pipelines that go beyond prototype screens into real, deployable workflows.
-
-- 🚀 Currently deepening: **AWS**, **Terraform**, **Kubernetes**, **Docker**, **System Design**
-- 🧠 I care about: **infrastructure as code**, **database correctness**, **clean architecture**, and **developer experience**
-- 🌱 Always shipping: production-style projects with explicit infra, real migrations, and validation evidence
-- 💼 Open to: **software engineering internships**, cloud/full-stack roles, and technical collaboration
-
----
-
-## 🛠️ Tech Stack
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### 💻 Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-### 🗄️ Data & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=flat-square&logo=minio&logoColor=white)
-
-### 🤖 AI / ML
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-
-### 🎨 Frontend & UI
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433e38?style=flat-square)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🟠 AWS Infrastructure Accelerator
-> **Production-style AWS environment built end-to-end with Terraform**
-
-**Architecture & Logic:**
-The infrastructure is modelled as layered Terraform modules — networking first (multi-tier VPC with public, firewall, private-app, and private-data subnets), then edge delivery (CloudFront + S3 + WAF), then compute (ECS + ECR with private ALB), and finally data (DocumentDB, EFS, DMS from MongoDB Atlas). A Lambda + AWS Bedrock RAG endpoint enables AI-augmented query flows. Every module is validated with CloudWatch logs, Secrets Manager integration, and AWS Backup evidence.
-
-**UI/UX Approach:** Infrastructure is the "UI" — deployment evidence docs, structured Terraform outputs, and clear module boundaries are the developer experience deliverable. Human-readable variable naming and logical resource grouping make infra self-documenting.
-
-| Layer | Technologies |
-|---|---|
-| Networking | VPC, Multi-subnet tiers, VPC Endpoints |
-| Edge | CloudFront, WAF, S3 |
-| Compute | ECS, ECR, Private ALB, Lambda |
-| Data | DocumentDB, DMS, EFS, AWS Backup |
-| AI | Lambda + Bedrock RAG |
-| Observability | CloudWatch, Secrets Manager |
-
-[![Repo](https://img.shields.io/badge/Repo-AWS-FF9900?style=flat-square&logo=github)](https://github.com/MinhKhoa2209/AWS)
-[![Repo P2](https://img.shields.io/badge/Repo-AWS%20Accelerator%20P2-FF9900?style=flat-square&logo=github)](https://github.com/MinhKhoa2209/minhkhoa-aws-accelerator-p2)
-
----
-
-### 🏭 Smart Logistics — Warehouse Management System
-> **Warehouse platform designed around advanced PostgreSQL features, not just application-layer logic**
-
-**Architecture & Logic:**
-The system flips the conventional approach: business rules live *in the database* — PL/pgSQL triggers for inventory automation, row-level locking for concurrent stock transfers, materialized views for reporting, JSONB audit diffs, and RLS-backed access control. The application layer (Express/TypeScript) is kept intentionally thin with a SQL-first repository pattern. pgvector + local Ollama embeddings power semantic product search.
-
-**UI/UX Approach:** React + Vite frontend with component-driven layout. The UI surfaces warehouse operations (inventory, transfers, audit logs) with clean data tables, status badges, and role-aware views. Docker Compose makes the local dev stack reproduce production parity.
-
-| Layer | Technologies |
-|---|---|
-| Frontend | React, Vite, TypeScript |
-| Backend | Express.js, TypeScript |
-| Database | PostgreSQL 17, PL/pgSQL, pgvector, RLS |
-| AI Search | Ollama embeddings, vector similarity |
-| DevOps | Docker Compose |
-
-[![Repo](https://img.shields.io/badge/Repo-smart--logistics-4169E1?style=flat-square&logo=github)](https://github.com/MinhKhoa2209/smart-logistics)
-
----
-
-### 🔍 SemaMedia — Semantic AI Media Search Platform
-> **AI-powered media indexing & hybrid semantic search for images and videos**
-
-**Architecture & Logic:**
-A Dockerized microservice stack — API gateway, media worker, search API, and shared service layer — processes uploaded media through a multi-stage pipeline: scene extraction → BLIP caption generation → CLIP embedding → pgvector storage. The GPU-aware worker handles model warmup and CPU/GPU runtime switching. Smoke tests validate the full pipeline from upload to retrieval.
-
-**UI/UX Approach:** React + TypeScript frontend with a media grid UI. Search results update via semantic relevance ranking rather than keyword matching. The design separates upload, processing status, and retrieval views — each with clean loading states and error boundaries. Stable frontend API contracts are enforced by contract tests.
-
-| Layer | Technologies |
-|---|---|
-| Frontend | React, TypeScript |
-| Services | Python microservices, FastAPI-style |
-| AI Models | CLIP, BLIP (Hugging Face) |
-| Database | PostgreSQL + pgvector |
-| DevOps | Docker Compose, GPU-aware workers |
-
-[![Repo](https://img.shields.io/badge/Repo-SemaMedia-009688?style=flat-square&logo=github)](https://github.com/MinhKhoa2209/SemaMedia)
-
----
-
-### 📉 ChurnPrediction — End-to-End ML Platform
-> **Full ML lifecycle: upload → preprocess → train → explain → predict → report**
-
-**Architecture & Logic:**
-Celery + Redis workers handle long-running ML jobs asynchronously. Users upload datasets via a Next.js frontend, which triggers background preprocessing (validation, cleaning, feature engineering), model training with scikit-learn + Optuna hyperparameter tuning, and SHAP explainability generation. Model artefacts are stored in MinIO. Alembic manages DB schema migrations. RBAC separates Admin and Analyst workflows.
-
-**UI/UX Approach:** Next.js frontend with a dashboard-style layout. Training progress is surfaced with real-time job status polling. Prediction results display SHAP waterfall charts alongside probability scores. The Analyst view hides admin controls; the Admin view exposes dataset management, model registry, and user controls.
-
-| Layer | Technologies |
-|---|---|
-| Frontend | Next.js, TypeScript |
-| Backend | FastAPI, Celery, Redis |
-| ML | scikit-learn, Optuna, SHAP |
-| Storage | PostgreSQL, MinIO |
-| DevOps | Docker Compose, Alembic |
-
-[![Repo](https://img.shields.io/badge/Repo-ChurnPrediction-F7931E?style=flat-square&logo=github)](https://github.com/MinhKhoa2209/ChurnPrediction)
-
----
-
-### 🛍️ TrendyFit — Modern E-commerce Storefront
-> **Full-featured commerce application with CMS, auth, and Stripe checkout**
-
-**Architecture & Logic:**
-Next.js server components handle product/catalog rendering with Sanity CMS as the content source. Clerk manages authentication and user sessions. Stripe Checkout handles payment flows with webhook-driven order status updates. Zustand manages client-side cart state. Typed product and order models are shared across server actions and API routes.
-
-**UI/UX Approach:** Modern storefront with responsive grid layouts, animated product cards, and a seamless multi-step checkout flow. Sanity's live preview enables real-time content editing. The UI adapts for authenticated vs guest users — showing personalised order history and wishlists for signed-in users. Deployed and live on Vercel.
-
-| Layer | Technologies |
-|---|---|
-| Frontend | Next.js, React, TypeScript, Tailwind CSS |
-| CMS | Sanity |
-| Auth | Clerk |
-| Payments | Stripe |
-| State | Zustand |
-| Deploy | Vercel |
-
-[![Repo](https://img.shields.io/badge/Repo-TrendyFit-635BFF?style=flat-square&logo=github)](https://github.com/MinhKhoa2209/TrendyFit_Ecommerce)
-[![Live](https://img.shields.io/badge/Live-trendyfit.vercel.app-14B8A6?style=flat-square&logo=vercel)](https://trendyfit.vercel.app)
-
----
-
-### 🏦 Banking Desktop App — Java Application
-> **Desktop banking application built with Java**
-
-[![Repo](https://img.shields.io/badge/Repo-Banking--DesktopApp-ED8B00?style=flat-square&logo=github)](https://github.com/MinhKhoa2209/Banking_DesktopApp)
-
----
-
-## 🏆 AWS Hackathon — g8-costctl
-> **Cloud cost control CLI tool built during the AWS Hackathon**
-
-A Python CLI tool (`g8-costctl`) for AWS cost visibility and control. Built as a team project during an AWS-themed hackathon, demonstrating real-time cost querying, resource tagging analysis, and budget alert integration.
-
-[![Repo](https://img.shields.io/badge/Repo-g8--costctl-FF9900?style=flat-square&logo=github)](https://github.com/MinhKhoa2209/g8-costctl)
-[![Hackathon](https://img.shields.io/badge/Repo-Hackathon__AWS-FF6B35?style=flat-square&logo=github)](https://github.com/MinhKhoa2209/Hackathon_AWS)
-
----
-
-## ⚙️ Engineering Principles
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Infrastructure as Code   │  Terraform modules, repeatable      │
-│                           │  deploy workflows, remote state      │
-├─────────────────────────────────────────────────────────────────┤
-│  Cloud Architecture       │  VPC design, private networking,    │
-│                           │  CloudFront, WAF, ECS, Lambda        │
-├─────────────────────────────────────────────────────────────────┤
-│  Database-First Design    │  PL/pgSQL, triggers, RLS, pgvector, │
-│                           │  row locking, materialized views     │
-├─────────────────────────────────────────────────────────────────┤
-│  Containers & Compose     │  Dockerfiles, health checks,        │
-│                           │  production-like local stacks        │
-├─────────────────────────────────────────────────────────────────┤
-│  AI/ML Pipelines          │  Embeddings, semantic search, SHAP, │
-│                           │  background jobs, Bedrock RAG        │
-├─────────────────────────────────────────────────────────────────┤
-│  Delivery Practices       │  Migration scripts, env separation, │
-│                           │  logs, validation evidence docs      │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MinhKhoa2209&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoa2209&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MinhKhoa2209&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MinhKhoa2209&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub trophies" />
-</p>
-
----
-
-## 🎯 Current Learning Goals
-
-- [ ] **Kubernetes** — deployments, services, ingress, ConfigMaps/Secrets, HPA, and cluster observability
-- [ ] **CI/CD** — GitHub Actions pipelines for testing, container builds, and automated cloud deployments
-- [ ] **Terraform** — advanced module design, remote state backends, and drift detection workflows
-- [ ] **System Design** — distributed tracing, event-driven patterns, and reliability engineering
-- [ ] **AWS Solutions Architect** — preparing toward Associate certification
-
----
-
-## 📬 Let's Connect
-
-I'm actively looking for **software engineering internships** and **cloud/full-stack roles**. If you're building something interesting with cloud infrastructure, AI/ML systems, or complex backend platforms — I'd love to talk.
-
-<p align="left">
-  <a href="minhkhoa2209@gmail.com">
-    <img src="https://img.shields.io/badge/Email-your--email%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:minhkhoa2209@gmail.com">
+    <img src="https://img.shields.io/badge/Email-minhkhoa2209@gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a&color=0891b2" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/khoa-minh-927139298/">
-    <img src="https://img.shields.io/badge/LinkedIn-your--linkedin--username-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Dinh%20Minh%20Khoa-0f172a?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a&color=0a66c2" />
   </a>
   &nbsp;
-  <a href="https://github.com/MinhKhoa2209">
-    <img src="https://img.shields.io/badge/GitHub-MinhKhoa2209-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MinhKhoa2209&style=flat-square&color=1d4ed8&label=Profile+Views&labelColor=0f172a" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=AWS+%E2%80%A2+Terraform+%E2%80%A2+Kubernetes+%E2%80%A2+TypeScript;Infrastructure+as+Code+%7C+Platform+Engineering;Container+Orchestration+%7C+Backend+Systems;Building+systems+that+scale+beyond+prototypes" alt="Typing SVG" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+## About
+
+Software Engineering student based in Da Nang, Vietnam. I design and build cloud infrastructure, backend systems, and data pipelines using the same tooling you'd find in production at a mid-to-large tech company — Terraform modules with remote state, ECS-deployed microservices, PostgreSQL schemas that enforce business rules in the database layer, and ML pipelines with proper async job queues.
+
+My work is defined by one constraint: **it has to actually deploy**. Every project ships with infrastructure code, migration scripts, Docker Compose stacks for local parity, and observable output — not just a Figma screenshot.
+
+Currently targeting Cloud / Platform / Backend engineering roles where infrastructure, systems design, and delivery practices are first-class concerns.
+
+<br/>
+
+---
+
+<br/>
+
+## Core Expertise
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### ☁ Cloud Infrastructure
+Terraform-managed AWS environments across VPC, ECS, CloudFront, Lambda, and DocumentDB. Multi-tier networking with private subnets, WAF, VPC endpoints, and Secrets Manager integration. Remote state backends and modular IaC design.
+
+`AWS` `Terraform` `CloudFront` `ECS` `Lambda` `WAF` `VPC`
+
+    </td>
+    <td valign="top" width="50%">
+
+### ⚙ Backend Engineering
+TypeScript/Node.js and Python/FastAPI service layers with a SQL-first repository pattern. Business logic pushed into the database layer via PL/pgSQL triggers, row-level security, and materialized views. REST API design with typed contracts.
+
+`TypeScript` `Node.js` `FastAPI` `Express.js` `PostgreSQL` `PL/pgSQL`
+
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🚀 DevOps & Container Platforms
+Docker Compose stacks designed for production parity. Kubernetes workloads including deployments, services, ingress, and HPA. GitHub Actions pipelines for container builds and automated cloud deployments. Health check patterns and graceful shutdown.
+
+`Docker` `Kubernetes` `GitHub Actions` `Docker Compose` `ECR`
+
+    </td>
+    <td valign="top" width="50%">
+
+### 🗄 Database Systems
+Advanced PostgreSQL: pgvector for semantic search, RLS for multi-tenant access, JSONB audit trails, Alembic migrations, and concurrent stock locking. Vector similarity search with local and cloud-hosted embedding models.
+
+`PostgreSQL` `pgvector` `Redis` `MongoDB` `MinIO` `Alembic`
+
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🤖 AI & ML Systems
+End-to-end ML pipelines: async training jobs via Celery, hyperparameter tuning with Optuna, SHAP explainability, and model artifact storage in MinIO. Semantic search via CLIP/BLIP embeddings and AWS Bedrock RAG endpoints.
+
+`scikit-learn` `Optuna` `SHAP` `CLIP` `BLIP` `AWS Bedrock` `Ollama`
+
+    </td>
+    <td valign="top" width="50%">
+
+### 🌐 Full-Stack Delivery
+React and Next.js frontends with TypeScript, Zustand state management, and Sanity CMS. Stripe Checkout with webhook-driven order flows. Clerk auth with RBAC. Deployments to Vercel with production-ready configurations.
+
+`React` `Next.js` `Tailwind CSS` `Zustand` `Sanity` `Stripe` `Clerk`
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### [AWS Infrastructure Accelerator](https://github.com/MinhKhoa2209/AWS)
+
+Production-grade AWS environment provisioned end-to-end with Terraform — multi-tier VPC, CloudFront + WAF edge delivery, ECS/ECR compute, DocumentDB data layer, and a Lambda + Bedrock RAG endpoint. Every module ships with CloudWatch observability and Secrets Manager integration.
+
+`Terraform` `AWS ECS` `CloudFront` `WAF` `Lambda` `Bedrock` `DocumentDB`
+
+[![View Repo](https://img.shields.io/badge/Repo-AWS-FF9900?style=flat-square&logo=github&logoColor=white)](https://github.com/MinhKhoa2209/AWS)
+[![Part 2](https://img.shields.io/badge/Repo-Accelerator%20P2-FF9900?style=flat-square&logo=github&logoColor=white)](https://github.com/MinhKhoa2209/minhkhoa-aws-accelerator-p2)
+
+    </td>
+    <td valign="top" width="50%">
+
+### [Smart Logistics — WMS](https://github.com/MinhKhoa2209/smart-logistics)
+
+Warehouse management system built database-first. Business rules live in PL/pgSQL — inventory triggers, concurrent row locking, materialized views, JSONB audit diffs, and RLS access control. pgvector + Ollama power semantic product search.
+
+`PostgreSQL 17` `PL/pgSQL` `pgvector` `TypeScript` `Express.js` `Ollama` `Docker`
+
+[![View Repo](https://img.shields.io/badge/Repo-smart--logistics-4169E1?style=flat-square&logo=github&logoColor=white)](https://github.com/MinhKhoa2209/smart-logistics)
+
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+### [SemaMedia — AI Media Search](https://github.com/MinhKhoa2209/SemaMedia)
+
+Dockerized microservice stack for semantic media indexing. Uploaded images and videos flow through scene extraction → BLIP captioning → CLIP embedding → pgvector storage. GPU-aware workers with CPU fallback. Smoke tests cover the full pipeline.
+
+`Python` `CLIP` `BLIP` `pgvector` `PostgreSQL` `Docker Compose` `React`
+
+[![View Repo](https://img.shields.io/badge/Repo-SemaMedia-0891b2?style=flat-square&logo=github&logoColor=white)](https://github.com/MinhKhoa2209/SemaMedia)
+
+    </td>
+    <td valign="top" width="50%">
+
+### [ChurnPrediction — ML Platform](https://github.com/MinhKhoa2209/ChurnPrediction)
+
+Full ML lifecycle platform: upload → preprocess → train → explain → predict. Celery + Redis handle async training jobs. Optuna drives hyperparameter search. SHAP generates per-prediction waterfall explanations. RBAC separates Admin and Analyst access.
+
+`FastAPI` `Celery` `Redis` `scikit-learn` `Optuna` `SHAP` `MinIO` `Next.js`
+
+[![View Repo](https://img.shields.io/badge/Repo-ChurnPrediction-f59e0b?style=flat-square&logo=github&logoColor=white)](https://github.com/MinhKhoa2209/ChurnPrediction)
+
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+
+### [TrendyFit — E-commerce Storefront](https://github.com/MinhKhoa2209/TrendyFit_Ecommerce)
+
+Production Next.js commerce app: Sanity CMS for content, Clerk for auth and session management, Stripe Checkout with webhook-driven order state, and Zustand cart. Live on Vercel. Typed product and order models are shared across server actions and API routes.
+
+`Next.js` `TypeScript` `Sanity` `Clerk` `Stripe` `Zustand` `Vercel`
+
+[![View Repo](https://img.shields.io/badge/Repo-TrendyFit-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/MinhKhoa2209/TrendyFit_Ecommerce)
+[![Live Demo](https://img.shields.io/badge/Live-trendyfit.vercel.app-10b981?style=flat-square&logo=vercel&logoColor=white)](https://trendyfit.vercel.app)
+
+    </td>
+    <td valign="top">
+
+### [g8-costctl — AWS Cost Control CLI](https://github.com/MinhKhoa2209/g8-costctl)
+
+Python CLI tool built during an AWS Hackathon for real-time AWS cost visibility. Queries Cost Explorer, analyses resource tagging coverage, and surfaces budget alert status — designed as a portable ops tool for cloud cost governance.
+
+`Python` `AWS Cost Explorer` `AWS Budgets` `CLI` `Boto3`
+
+[![View Repo](https://img.shields.io/badge/Repo-g8--costctl-FF9900?style=flat-square&logo=github&logoColor=white)](https://github.com/MinhKhoa2209/g8-costctl)
+[![Hackathon](https://img.shields.io/badge/Event-AWS%20Hackathon-FF6B35?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/MinhKhoa2209/Hackathon_AWS)
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## Engineering Highlights
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Infrastructure as Code</strong><br/>
+      <sub>Terraform module libraries with variable validation, remote S3 state, and Atlantis-style workflow patterns. No click-ops.</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Cloud Architecture</strong><br/>
+      <sub>Multi-tier VPC design, private networking, WAF rule groups, CloudFront distributions, and IAM least-privilege scoping.</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Database-First Design</strong><br/>
+      <sub>Business logic in PL/pgSQL, not just application code. Row-level security, concurrent locking, materialized views, vector search.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Container Platforms</strong><br/>
+      <sub>Production-parity Docker Compose stacks, multi-stage Dockerfiles, health checks, graceful shutdown, and ECS task definitions.</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Async ML Pipelines</strong><br/>
+      <sub>Celery worker pools with Redis broker, Optuna HPO, SHAP explainability, artifact versioning, and RBAC-gated model management.</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Delivery Practices</strong><br/>
+      <sub>Migration scripts, environment separation, structured CloudWatch logs, validation evidence, and smoke test coverage from day one.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## GitHub Dashboard
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=MinhKhoa2209&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=1d4ed8&text_color=94a3b8" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoa2209&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:14B8A6,50:2563EB,100:0D1117&section=footer" alt="footer wave" />
+  <img src="https://streak-stats.demolab.com?user=MinhKhoa2209&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=1D4ED8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhKhoa2209&bg_color=0d1117&color=38bdf8&line=1d4ed8&point=e2e8f0&area=true&hide_border=true&area_color=1d4ed820" alt="Contribution Graph" />
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+## Current Focus
+
+> Actively building toward production-grade Cloud / Platform engineering roles.
+
+| Area | Status | Target |
+|---|---|---|
+| **Kubernetes** | Deployments, services, ingress, HPA | Production workload management |
+| **Terraform Advanced** | Module composition, remote state, drift detection | Multi-account org patterns |
+| **AWS Solutions Architect** | SAA-C03 preparation | Associate certification |
+| **Platform Engineering** | Internal tooling, developer platforms | IDP design patterns |
+| **Distributed Systems** | Event-driven architecture, tracing, reliability | Production-grade resilience |
+
+<br/>
+
+---
+
+<br/>
+
+## Let's Connect
+
+Building cloud infrastructure, backend systems, or platform tooling? Open to **engineering internships** and **Cloud / Backend / Platform roles** where delivery and technical depth matter.
+
+<p align="left">
+  <a href="mailto:minhkhoa2209@gmail.com">
+    <img src="https://img.shields.io/badge/Email-minhkhoa2209@gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a&color=ea4335" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/khoa-minh-927139298/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dinh%20Minh%20Khoa-0f172a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a&color=0a66c2" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MinhKhoa2209">
+    <img src="https://img.shields.io/badge/GitHub-MinhKhoa2209-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a&color=1d4ed8" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1d4ed8,50:0891b2,100:0d1117&section=footer&reversal=false" alt="footer" />
 </p>
