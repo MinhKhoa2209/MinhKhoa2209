@@ -1,5 +1,7 @@
+<h1 align="center">Minh Khoa</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:0f2447,80:1a3a6e,100:1d4ed8&text=Minh%20Khoa&fontColor=E2E8F0&fontSize=68&fontAlignY=42&fontAlign=50&desc=Cloud%20%26%20Platform%20Engineer%20%7C%20Building%20Production-Grade%20Systems&descSize=16&descAlignY=60&descAlign=50&descColor=94A3B8&animation=fadeIn" alt="Minh Khoa" />
+  <strong>Cloud &amp; Platform Engineer — Building Production-Grade Systems</strong>
 </p>
 
 <p align="center">
@@ -19,7 +21,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=AWS+%E2%80%A2+Terraform+%E2%80%A2+Kubernetes+%E2%80%A2+TypeScript;Infrastructure+as+Code+%7C+Platform+Engineering;Container+Orchestration+%7C+Backend+Systems;Building+systems+that+scale+beyond+prototypes" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
 ---
@@ -45,9 +54,9 @@ Currently targeting Cloud / Platform / Backend engineering roles where infrastru
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/WAF-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
 </td>
@@ -59,6 +68,7 @@ Currently targeting Cloud / Platform / Backend engineering roles where infrastru
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
@@ -129,8 +139,8 @@ Currently targeting Cloud / Platform / Backend engineering roles where infrastru
 <p>Production-grade AWS environment provisioned end-to-end with Terraform — multi-tier VPC, CloudFront + WAF edge delivery, ECS/ECR compute, DocumentDB data layer, and a Lambda + Bedrock RAG endpoint. Every module ships with CloudWatch observability and Secrets Manager integration.</p>
 <p>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 <p>
@@ -146,8 +156,8 @@ Currently targeting Cloud / Platform / Backend engineering roles where infrastru
 <p>Warehouse management system built database-first. Business rules live in PL/pgSQL — inventory triggers, concurrent row locking, materialized views, JSONB audit diffs, and RLS access control. pgvector + Ollama power semantic product search.</p>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL%2017-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
 </p>
 <p>
@@ -163,7 +173,7 @@ Currently targeting Cloud / Platform / Backend engineering roles where infrastru
 <p>Dockerized microservice stack for semantic media indexing. Uploaded images and videos flow through scene extraction → BLIP captioning → CLIP embedding → pgvector storage. GPU-aware workers with CPU fallback. Smoke tests cover the full pipeline.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLIP%2FBLIP-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
@@ -192,7 +202,7 @@ Currently targeting Cloud / Platform / Backend engineering roles where infrastru
 <td valign="top" width="50%">
 
 <h3><a href="https://github.com/MinhKhoa2209/TrendyFit_Ecommerce">TrendyFit — E-commerce Storefront</a></h3>
-<p>Production Next.js commerce app: Sanity CMS for content, Clerk for auth and session management, Stripe Checkout with webhook-driven order state, and Zustand cart. Typed product and order models are shared across server actions and API routes. Live on Vercel.</p>
+<p>Production Next.js commerce app: Sanity CMS for content, Clerk for auth and session management, Stripe Checkout with webhook-driven order state, and Zustand cart. Typed product and order models shared across server actions and API routes. Live on Vercel.</p>
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white" />
@@ -212,8 +222,8 @@ Currently targeting Cloud / Platform / Backend engineering roles where infrastru
 <p>Python CLI tool built during an AWS Hackathon for real-time AWS cost visibility. Queries Cost Explorer, analyses resource tagging coverage, and surfaces budget alert status — designed as a portable ops tool for cloud cost governance.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20CLI-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Boto3-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20CLI-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 <p>
   <a href="https://github.com/MinhKhoa2209/g8-costctl"><img src="https://img.shields.io/badge/Repo-g8--costctl-FF9900?style=flat-square&logo=github&logoColor=white" /></a>
@@ -262,24 +272,6 @@ Currently targeting Cloud / Platform / Backend engineering roles where infrastru
 
 ---
 
-## GitHub Dashboard
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=MinhKhoa2209&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhoa2209&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MinhKhoa2209&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhKhoa2209&bg_color=0d1117&color=38bdf8&line=1d4ed8&point=e2e8f0&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
 ## Current Focus
 
 | Area | Target |
@@ -308,8 +300,4 @@ Building cloud infrastructure, backend systems, or platform tooling? Open to **e
   <a href="https://github.com/MinhKhoa2209">
     <img src="https://img.shields.io/badge/GitHub-MinhKhoa2209-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1d4ed8,50:0891b2,100:0d1117&section=footer" alt="footer" />
 </p>
